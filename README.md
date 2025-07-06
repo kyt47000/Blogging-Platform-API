@@ -4,15 +4,10 @@
 ![Express](https://img.shields.io/badge/Express.js-Framework-blue)
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-green)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![Live](https://img.shields.io/badge/Deployed-Render-success?logo=render)
+
 
 This is a simple **RESTful API** for a personal blogging platform, built with **Node.js**, **Express**, and **MongoDB Atlas**.  
 It’s inspired by the [roadmap.sh blogging platform project](https://roadmap.sh/projects/blogging-platform-api).
-
-## 🚀 Live Demo
-
-✅ **API is deployed on Render:**  
-👉 [https://blogging-platform-api-3lwo.onrender.com](https://blogging-platform-api-3lwo.onrender.com)
 
 ## 🎯 Goals
 
